@@ -1,0 +1,17 @@
+{
+  "name": "uk-heat-pump-calc",
+  "version": "1.0.0",
+  "description": "UK Heat Pump Cost Calculator with BUS grant integration",
+  "main": "index.js",
+  "bin": {
+    "uk-heat-pump-calc": "./cli.js"
+  },
+  "keywords": ["heat-pump", "boiler", "uk", "energy", "grants", "bus", "calculator"],
+  "author": "UK Energy Tools",
+  "license": "MIT",
+  "homepage": "https://greatbritishenergy.com/boiler-upgrade-scheme/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neoagentic-ship-it/uk-heat-pump-calculator"
+  }
+}
